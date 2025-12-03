@@ -23,21 +23,24 @@ This project builds an end-to-end pipeline that:
 - Outputs a clean JSON representation of the map
 - Reconstructs a playable 2D level inside Unity using C#
 
-The workflow allows any designer—even without technical experience—to simply draw a layout and get a functional game level in seconds.
+The workflow allows any designer, even without technical experience, to simply draw a layout and get a functional game level in seconds.
 
 **Features**
 
-AI & Vision
-Synthetic dataset generation (1,000+ procedurally generated maps)
-U-Net segmentation with Weighted BCE + Dice loss
-Extensive augmentations (blur, contrast, elastic deformation, line jitter)
-Achieves >90% IoU on hand-drawn test maps
-Robust corridor reconstruction (even thin structures)
-Level Generation
-Pixel-perfect JSON export of wall coordinates
-Real-time Unity reconstruction using prefab instantiation
-Supports thousands of tiles with smooth performance (120+ FPS)
-Instant sketch → level workflow (< 500 ms end-to-end on GPU)
+_AI & Vision_
+
+- Synthetic dataset generation (1,000+ procedurally generated maps)
+- U-Net segmentation with Weighted BCE + Dice loss
+- Extensive augmentations (blur, contrast, elastic deformation, line jitter)
+- Achieves >90% IoU on hand-drawn test maps
+- Robust corridor reconstruction (even thin structures)
+
+_Level Generation_
+
+- Pixel-perfect JSON export of wall coordinates
+- Real-time Unity reconstruction using prefab instantiation
+- Supports thousands of tiles with smooth performance (120+ FPS)
+- Instant sketch → level workflow (< 500 ms end-to-end on GPU)
 
 🚀 Pipeline
 1. Synthetic Data Generation
