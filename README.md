@@ -6,8 +6,9 @@ This project transforms simple hand-drawn 2D map sketches into fully playable Un
 **For a complete technical breakdown, methods, results, and visuals, see the full report: Artificial Intelligence and Computer Vision Driven 2D Level Generation from Hand Drawn Sketches.pdf.**
 
 **Demo Video**
-👉 Insert your demo video here
-(Upload your MP4 to the repo or paste a YouTube link.)
+
+https://github.com/BAKER-2/AI-Based-2D-Level-Generation/blob/main/Real%20Time%20Recording%20of%20Map%20Generation.mov
+
 
 **Overview**
 
