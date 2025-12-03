@@ -7,7 +7,7 @@ This project transforms simple hand-drawn 2D map sketches into fully playable Un
 
 **Demo Video**
 
-https://github.com/BAKER-2/AI-Based-2D-Level-Generation/blob/main/Real%20Time%20Recording%20of%20Map%20Generation.mov
+https://github.com/BAKER-2/AI-Based-2D-Level-Generation/blob/main/Real%20Time%20Recording%20of%20Map%20Generation.mp4
 
 
 **Overview**
