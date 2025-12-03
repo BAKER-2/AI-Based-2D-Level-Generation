@@ -1,4 +1,5 @@
 AI & Computer Vision Driven 2D Level Generation from Hand-Drawn Sketches
+
 This project transforms simple hand-drawn 2D map sketches into fully playable Unity levels using a combination of synthetic data generation, U-Net deep learning segmentation, and procedural prefab instantiation. The system takes a scanned sketch, interprets rooms and corridors, exports them as structured JSON coordinates, and reconstructs the level in Unity in real time.
 👉 For a complete technical breakdown, methods, results, and visuals, see the full report: Artificial Intelligence and Computer Vision Driven 2D Level Generation from Hand Drawn Sketches.pdf.
 📺 Demo Video
